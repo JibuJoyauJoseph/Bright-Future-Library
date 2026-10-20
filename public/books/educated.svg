@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 340" role="img" aria-labelledby="title">
+  <title id="title">Original illustrated cover for Educated</title>
+  <defs>
+    <linearGradient id="dawn" x2="0" y2="1"><stop stop-color="#e9bc84"/><stop offset=".58" stop-color="#f0dfbc"/><stop offset="1" stop-color="#a6b29b"/></linearGradient>
+  </defs>
+  <rect width="240" height="340" fill="#eee5d2"/>
+  <rect x="12" y="12" width="216" height="316" rx="2" fill="url(#dawn)"/>
+  <circle cx="120" cy="190" r="48" fill="#f6e4b1" opacity=".9"/>
+  <path d="M12 238 67 174l31 32 50-70 80 99v81H12Z" fill="#66775f"/>
+  <path d="m35 212 32-38 21 22-18-8-11 15Zm75-17 38-59 21 26-22-9-18 24Z" fill="#f4e8d0"/>
+  <path d="M12 258q48-22 90 1t79-3q27-12 47-7v67H12Z" fill="#42594a"/>
+  <path d="M116 226c9-15 22-19 31-18-1 19-10 30-27 34" fill="none" stroke="#f2e2bd" stroke-width="3"/>
+  <text x="120" y="56" text-anchor="middle" fill="#4b5e4d" font-family="Arial,sans-serif" font-size="9" letter-spacing="3">A MEMOIR</text>
+  <text x="120" y="103" text-anchor="middle" fill="#344839" font-family="Georgia,serif" font-size="32" letter-spacing="4">EDUCATED</text>
+  <text x="120" y="307" text-anchor="middle" fill="#f7ecd4" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">TARA WESTOVER</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 340" role="img" aria-labelledby="title">
+  <title id="title">Original illustrated cover for The Hobbit</title>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e8bd70"/><stop offset="1" stop-color="#f4e5bd"/></linearGradient>
+    <linearGradient id="mountain" x2="0" y2="1"><stop stop-color="#62765a"/><stop offset="1" stop-color="#263c35"/></linearGradient>
+  </defs>
+  <rect width="240" height="340" fill="#f3e9d2"/>
+  <rect x="12" y="12" width="216" height="316" rx="2" fill="url(#sky)"/>
+  <circle cx="175" cy="112" r="35" fill="#f8e9b2"/>
+  <path d="M12 241 78 152l43 53 40-73 67 100v84H12Z" fill="url(#mountain)"/>
+  <path d="m67 167 11-15 14 17-14-4-8 9Zm47 39 47-74 16 23-18-8-18 24Z" fill="#e7d7aa"/>
+  <path d="M12 270q43-21 83 0t83 0q27-15 50-5v63H12Z" fill="#293b32"/>
+  <path d="M47 236c0-18 15-32 34-32s34 14 34 32v29H47Z" fill="#b9854e"/>
+  <circle cx="80" cy="237" r="19" fill="#324a3b"/>
+  <text x="120" y="54" text-anchor="middle" fill="#32483a" font-family="Georgia,serif" font-size="12" letter-spacing="4">A JOURNEY BEGINS</text>
+  <text x="120" y="93" text-anchor="middle" fill="#283d32" font-family="Georgia,serif" font-size="27" font-weight="bold">THE HOBBIT</text>
+  <text x="120" y="310" text-anchor="middle" fill="#f5e8c8" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">J. R. R. TOLKIEN</text>
+</svg>
